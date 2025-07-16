@@ -10,10 +10,10 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int opcao;
         ControleCarro controleCarro = new ControleCarro();
+
         System.out.println("Bem-vindo ao controle de carro!");
         do {
-            System.out.println("==========================");
-            System.out.println("--- MENU CARRO ---");
+            System.out.println("------ MENU CARRO --------");
             System.out.println("1. Ligar carro");
             System.out.println("2. Desligar carro");
             System.out.println("3. Acelerar");
