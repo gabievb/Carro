@@ -40,9 +40,9 @@ Este é um projeto simples desenvolvido em Java utilizando os princípios de Pro
 ## 🗂️Estrutura do projeto
 
 Carro
-├── ControleCarro.java     # Classe principal com toda a lógica do carro
-├── Main.java              # Menu interativo para testar o sistema
-└── README.md              # Este arquivo
+ - ControleCarro.java        | Classe principal com toda a lógica do carro
+ - Main.java                 | Menu interativo para testar o sistema
+ - README.md                 | Este arquivo
 
 ## 🧠 Aprendizados
 
