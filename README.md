@@ -37,6 +37,13 @@ Este é um projeto simples desenvolvido em Java utilizando os princípios de Pro
 - Java 21+
 - Programação Orientada a Objetos (POO)
 
+## 🗂️Estrutura do projeto
+
+Carro
+├── ControleCarro.java     # Classe principal com toda a lógica do carro
+├── Main.java              # Menu interativo para testar o sistema
+└── README.md              # Este arquivo
+
 ## 🧠 Aprendizados
 
 - Criação de classes com atributos privados e métodos públicos (encapsulamento)
